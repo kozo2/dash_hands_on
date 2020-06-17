@@ -1,0 +1,5 @@
+dash 
+plotly 
+pandas 
+jupyter_dash
+jupyterlab
